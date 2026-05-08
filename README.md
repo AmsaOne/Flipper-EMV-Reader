@@ -99,7 +99,7 @@ For **official firmware** instead of Momentum, omit `--index-url`. uFBT will pul
 
 ### Build
 
-The repo includes `build.ps1` which handles the source-of-truth shared library sync:
+The repo includes `build.ps1` which handles the source shared library sync:
 
 ```powershell
 # From the repo root:
