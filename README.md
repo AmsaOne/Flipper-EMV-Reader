@@ -140,7 +140,7 @@ emv-flipper/
 ├── build.ps1               # sync + build + flash wrapper
 │
 ├── _shared/
-│   └── emv_lib/            # source-of-truth shared library (~300 LoC)
+│   └── emv_lib/            # source shared library (~300 LoC)
 │       ├── ber_tlv.{c,h}   # BER-TLV walker, multi-byte tags, recursion
 │       └── emv_apdu.{c,h}  # AID table, APDU builders, decoders, analyzers
 │
